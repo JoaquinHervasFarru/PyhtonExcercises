@@ -1,2 +1,2 @@
 def capText(text):
-    return text.capitalize()
+    return text.title()
